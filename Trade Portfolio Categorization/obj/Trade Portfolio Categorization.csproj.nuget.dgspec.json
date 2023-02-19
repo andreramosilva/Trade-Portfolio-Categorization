@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/Trade Portfolio Categorization.csproj": {}
+  },
+  "projects": {
+    "/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/Trade Portfolio Categorization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/Trade Portfolio Categorization.csproj",
+        "projectName": "Trade Portfolio Categorization",
+        "projectPath": "/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/Trade Portfolio Categorization.csproj",
+        "packagesPath": "/Users/andreramossilva/.nuget/packages/",
+        "outputPath": "/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andreramossilva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

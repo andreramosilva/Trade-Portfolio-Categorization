@@ -1,0 +1,15 @@
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/bin/Debug/net7.0/Trade Portfolio Categorization
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/bin/Debug/net7.0/Trade Portfolio Categorization.deps.json
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/bin/Debug/net7.0/Trade Portfolio Categorization.runtimeconfig.json
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/bin/Debug/net7.0/Trade Portfolio Categorization.dll
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/bin/Debug/net7.0/Trade Portfolio Categorization.pdb
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.csproj.AssemblyReference.cache
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.AssemblyInfoInputs.cache
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.AssemblyInfo.cs
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.csproj.CoreCompileInputs.cache
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.dll
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/refint/Trade Portfolio Categorization.dll
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.pdb
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/Trade Portfolio Categorization.genruntimeconfig.cache
+/Users/andreramossilva/Projects/Trade Portfolio Categorization/Trade Portfolio Categorization/obj/Debug/net7.0/ref/Trade Portfolio Categorization.dll
